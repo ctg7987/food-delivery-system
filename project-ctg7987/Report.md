@@ -254,5 +254,8 @@ This project offers a flexible and easy-to-maintain solution that can be used in
 2. [Mobile Money Services Development in Zimbabwe](https://www.igi-global.com/article/drivers-of-mobile-money-services-development-in-zimbabwe/267945)
 3. [Geography of Digital Access to Food in the US](https://www.brookings.edu/articles/delivering-to-deserts-new-data-reveals-the-geography-of-digital-access-to-food-in-the-us/)
 4. [Recommendations for the Security of Mobile Payments](https://www.ecb.europa.eu/press/intro/cons/pdf/131120/recommendationsforthesecurityofmobilepaymentsdraftpc201311en.pdf)
+5. [Object-Oriented Programming Concepts and Principles Explained - Baylor University](https://onlinecs.baylor.edu/news/object-oriented-programming-concepts-and-principles-explained)
+6. [Mobile Money and Financial Inclusion in Zimbabwe - MSU Library](https://cris.library.msu.ac.zw/handle/11408/1939)
+
 
 
